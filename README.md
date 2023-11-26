@@ -5,15 +5,19 @@
 ## Overview and Origin
 
 * Deserve Inc.  
-
 * Incorporated in 2013
+* Company Founder:  Kalpesh Kapadia, CEO and Michael Hallinan
 
-* Company Founder:  Kalpesh Kapadia
-
-* Company Background:
-* 
+### Company Background:
+* Deserve is a credit card platform built on a cloud-native and API-enabled architecture.  The paltform is designed to be used by the end users (credt card account holders) primarily on their mobile devices through digital issuance of a credit access device (virtual cards) and account management activities designed around the mobile phone interface.
+* The company operates in both a Business to Consumer (B2C) and Business to Business to Business (B2B) distribution model.
+* B2C:  Deserve uses its platforms to issue self-branded credit cards.  Through an issuing relationship with Celtic Bank, Desreve promotes, distributes, and services  Deserve branded credit cards.
+* B2B:  The main focus of the business, however, is to create white-label issuing partnerships with other companies.  The partner company's brand is forefront on these card products while Deserve provides the credit card platform to administer the program.  In addition, through its partnership with Celtic Bank and Evolve Bank, they can help arrange the issuing bank relationship for their partners.  Current partnerships include:  AMC Entertainment, Rocket Mortgage, Seneca Women, M1 Finance, and Sallie Mae.
+*  The platform provides a full suite of services to compeletely run a credit card program:  application, underwriting, origination, fraud and complinace controls, system of record, account management, account holder interface, portfolio management tools, customer service and collections.
+*  The competitive advantage Deserve is hoping to leverage is the flexibility of their cloud-based and newly coded solution.  This design advantage offers considerable speed to market.  Launching a credit card  program on legacy solutions such as Tsys or Fiserv takes a considerable amount of time and effort while Deserve promotes that it can launch a program within months.  In fact, Deserve won the bidding for the AMC Entertainment card by being able to launch within 4 months of the RFP - a feat none of their competitors could match.
 
 * Company Funding:
+  * 
 
 
 ## Business Activities:
@@ -66,4 +70,6 @@ What solution does this company offer that their competitors do not or cannot of
 * These technologies are appropriate for this solution because of the decentralized cloud-based solutions each company int partnership utilizes.
 
 ## Sources
-[Deserve.com](deserve.com)
+* [Deserve.com](deserve.com)
+* [Crunchbase.com](https://www.crunchbase.com/organization/deserve)
+* Phone interview with Pradeep Kalla, Chief Credit Officer
