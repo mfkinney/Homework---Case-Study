@@ -9,12 +9,11 @@
 * Company Founder:  Kalpesh Kapadia, CEO and Michael Hallinan
 
 ### Company Background:
-* Deserve is a credit card platform built on a cloud-native and API-enabled architecture.  The paltform is designed to be used by the end users (credt card account holders) primarily on their mobile devices through digital issuance of a credit access device (virtual cards) and account management activities designed around the mobile phone interface.
+* Deserve is a credit card platform built on a cloud-native and API-enabled architecture.  The platform is designed to be used by the end users (credt card account holders) primarily on their mobile devices through digital issuance of a credit access device (virtual cards) and account management activities designed around the mobile phone interface.
 * The company operates in both a Business to Consumer (B2C) and Business to Business to Business (B2B) distribution model.
-* B2C:  Deserve uses its platforms to issue self-branded credit cards.  Through an issuing relationship with Celtic Bank, Desreve promotes, distributes, and services  Deserve branded credit cards.
+* B2C:  Deserve uses its platforms to issue self-branded credit cards.  Through an issuing relationship with Celtic Bank, Deserve promotes, distributes, and services  Deserve branded credit cards.
 * B2B:  The main focus of the business, however, is to create white-label issuing partnerships with other companies.  The partner company's brand is forefront on these card products while Deserve provides the credit card platform to administer the program.  In addition, through its partnership with Celtic Bank and Evolve Bank, they can help arrange the issuing bank relationship for their partners.  Current partnerships include:  AMC Entertainment, Rocket Mortgage, Seneca Women, M1 Finance, and Sallie Mae.
-*  The platform provides a full suite of services to compeletely run a credit card program:  application, underwriting, origination, fraud and complinace controls, system of record, account management, account holder interface, portfolio management tools, customer service and collections.
-*  The competitive advantage Deserve is hoping to leverage is the flexibility of their cloud-based and newly coded solution.  This design advantage offers considerable speed to market.  Launching a credit card  program on legacy solutions such as Tsys or Fiserv takes a considerable amount of time and effort while Deserve promotes that it can launch a program within months.  In fact, Deserve won the bidding for the AMC Entertainment card by being able to launch within 4 months of the RFP - a feat none of their competitors could match.
+*  The platform provides a full suite of services to compeletely run a credit card program:  application, underwriting, origination, fraud and compliance controls, system of record, account management, account holder interface, portfolio management tools, customer service and collections.
 
 * Company Awards:
   * Tearsheet: Best Card Issuing Platform 2023
@@ -37,36 +36,51 @@
   *   By creating B2B partnerships with companies interested in extending their brand reach through cobranded/white-label credit cards, Deserve in seeking to capture a portion of the $1T US credit card market that continues to grow - $154B or 17% over the last year.  These partner companies can be financial institutions, FinTechs, lenders, merchants or affinity organizations.
 
 *   Competitive advantage over competition:
-  *   Deserve hopes to attract new partners by offering speed to market in launching a new program.  In addition, they can offer the a mobile first user experience, a flexible environment, and the latest tools to manage all aspects of credit card issuing. 
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+    *   The competitive advantage Deserve leverages is the flexibility of their cloud-based and newly coded solution.  This design advantage offers considerable speed to market.  Launching a credit card  program on legacy solutions such as Tsys or Fiserv takes a considerable amount of time (at least 6 months) and effort while Deserve promotes that it can launch a program within two months.  In fact, Deserve won the bidding for the AMC Entertainment card by being able to launch within 4 months of the RFP - a feat none of their competitors could match.
+  *   Deserve hopes to attract new partners by offering this speed to market solution in launching new programs.
+  *   In addition, they can offer the a mobile first user experience, a flexible environment, and the latest tools to manage all aspects of credit card issuing.
+    
+* Technologies:
+  *   Cloud-based infrastructure
+  *   API architecture
+  *   New customer-friendly mobile based UX
+  *   SaaS integration tools
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Financial industry Domain:
   * The company resides in the Credit Cards as a Service domain.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-  *  The major innovation in the domain has been the use of mobile-first design, cloud-based infrastructure, and API configurations that allow for a fully functional credit card processing system of record to be built apart from the mainframe architecture provided by Tsys and Fiserv.  
+* Major trends and innovations of this domain over the last 5-10 years?
+  *  The major innovation in the domain has been the use of mobile-first design, cloud-based infrastructure, and API configurations that allow for a fully functional credit card processing system of record to be built apart from the mainframe architecture provided by Tsys and Fiserv or legacy internal systems used by big banks.  
 
-* What are the other major companies in this domain?
   * The domain has been expanding with several new entrants over the past 10 years:
-    * Petal
-    * Avant
-    * Zeta
-    * i2C
-    *    
-
-
+    * [Petal](www.petalcard.com)
+    * [Avant](Avant.com)
+    * [Zeta](zeta.tech/us/)
+    * [i2C](i2cinc.com)
+   
+* Competition for new partners is fierce.  Avant recently signed a deal with Major League Soccer.  All are actively trying to attract new partners to either create a new issuing program or convince an existing issuer to convert their system of record to the new platform.
+  
 ## Results
+* Being a privately held company, there is no access to financial records such as SEC 10K filings.
 
-* What has been the business impact of this company so far?
+* Business impact of this company:
+  * Top 50 credit card issuer
+  * A large owned-brand portfolio
+  * 5 major partnerships
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* Core metrics:
+  * Average Net Receivable
+  * Total Number of Accounts
+  * Active Accounts
+  * Purchases on Cards
+  * Average monthly purchases per account
+  * Average monthly balance
 
-* How is your company performing relative to competitors in the same domain?
-
+* Company performance relative to competitors:
+ * Deserve seems to be leading the competition in the race for new partnerships.  Despite losing the very big deal of Major League Soccer to Avant, Deserve has more partnerships than others in the space.
 
 ## Recommendations
 
