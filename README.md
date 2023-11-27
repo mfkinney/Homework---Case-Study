@@ -62,7 +62,7 @@
     * [i2C](i2cinc.com)
     * [Marqeta](marqeta.com)
    
-* Competition for new partners is fierce.  Avant recently signed a deal with Major League Soccer.  All are actively trying to attract new partners to either create a new issuing program or convince an existing issuer to convert their system of record to the new platform.
+* Competition for new partners is fierce.  Avant recently signed a deal with Major League Soccer.  All are actively trying to attract new partners to either create a new issuing program, or convince an existing issuer to convert their system of record to the new platform.
   
 ## Results
 * Being a privately held company, there is no access to financial records such as SEC 10K filings.
@@ -72,29 +72,30 @@
   * A large owned-brand portfolio
   * 5 major partnerships
 
-* Core metrics:
+* Core metrics:  The company's key financial drivers are those of a credit card issuer - the more cards issued, the more balances rise, the more revenue earned.
   * Average Net Receivables
   * Total Number of Accounts
   * Active Accounts
   * Purchases on Cards
   * Average monthly purchases per account
   * Average monthly balance
+  * Net credit loss rate
 
 * Company performance relative to competitors:
- * Deserve seems to be leading the competition in the race for new partnerships.  Despite losing the very big deal of Major League Soccer to Avant, Deserve has more partnerships than others in the space.
+ * Deserve seems to be leading the competition in the race for new partnerships.  Despite losing the very big deal of Major League Soccer to Avant, Deserve has more partnerships than others in the space.  More partnerships leads to access to consumers which leads to more cardholders.  Total accounts fuels all other metrics for the company.
 
 ## Recommendations
 
 ### Advice to the company
-  *   The best path forward for Deserve is to lean into the current strategy of generating issuing partnerships across the Fintech domains.  In addition, Deserve should seek out other FinTech companies to create issuing partnerships leveraging the partner FinTech"s competitive advantage.  For example, partnerships with neobanks like Chime, Varo or Revolut would create complementary consumer financial products for both comaanies.  A partnership with Nova Credit.  A partnership with Atlanticus, Genesis,  or Pagaya gives access to second-look credit and subprime lending.  Also, partnerships to   
+  *   The best path forward for Deserve is to lean into the current strategy of generating issuing partnerships by concentrating on the Fintech domains.  In addition, Deserve should seek out other FinTech companies to create issuing partnerships leveraging the FinTech partner's competitive advantage.  For example, partnerships with neobanks like Chime, Varo or Revolut would create complementary consumer financial products for both comaanies.  A partnership with Nova Credit would create access to new ways of underwriting new credit card accounts.  A partnership with Atlanticus, Genesis,  or Pagaya gives access to second-look credit and subprime lending. 
 
 ### Benefits to the company
-*  The main benefit to the expanded partnerships with Neobanks is access to additional customers. As this is already likely a key part of Deserve's strategy as evidenced by their recent partnership expansion with Rocket Mortgage, there is little need to elaborate on this course of action.  Instaed the focus here will be on a partnership with a company that can goive Deserve a competitive advantage against other CCaaS companies.
-*     
-
+*  The main benefit to the expanded partnerships with Neobanks is access to additional customers looking to expand their banking relationship with additional products. As this is already likely a key part of Deserve's strategy as evidenced by their recent partnership expansion with Rocket Mortgage, there is little need to elaborate on this course of action.  Instead the focus here will be on a partnership with a company that can give Deserve a competitive advantage against other CCaaS companies.
+*  A Partnership with [Nova Credit](www.novacredit.com) would give Deserve access to new data sources to aid in underwriting.  The most important performance metric for a credit card partnership is approval rate.  Partners want their customers to be approved when they apply.  Having additional insights into those customers can help with the underwriting decision.
+*  Similarly, a partnership with a second-look/sub-prime provider like [Atlanticus](atlanticus.om), [Concora Credit](about.concoracredit.com), or [Pagaya](pagaya.com) would give another method to increase approval rates.  These partnerships would send declined applications to these companies to see if they would offer applicants a credit card.  While this option would not increase the accounts directly, it would improve approval rate, customer satisfaction, and provide a revenue stream from referral fees.  Such a feature - a connection to second-look providers - embedded into the Deserve platform would be an attractive enhancement for prospective partners.  
  ### Technologies Utilized
-* API Connections
-* These technologies are appropriate for this solution because of the decentralized cloud-based solutions each company int partnership utilizes.
+* API Connections - Having a full well-documented API library available for partners to connect their solutions with the Deserve platform will enable Deserve to offer the best products and services from various FinTech providers to their card issuing partners.
+* These technologies are appropriate for this solution because of the decentralized cloud-based solutions each company utilizes.
 
 ## Sources
 * [Deserve.com](deserve.com)
@@ -105,6 +106,7 @@
 * [Financial Times](https://www.ft.com/americas-fastest-growing-companies-2023)
 * [SEC EDGAR](sec.gov/edgar)
 * [FinTech Futures](fintechfutures.com/us/?s=deserve)
+* [CBInsights](cbinsights.com/company/selfscore)
 * [Tearsheet](tearsheet.co)
 * [Nilson Report](https://nilsonreport.com/articles/the-50-largest-us-visa-and-mastercard-credit-card-issuers-2022/)
   
