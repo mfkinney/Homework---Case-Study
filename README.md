@@ -16,16 +16,28 @@
 *  The platform provides a full suite of services to compeletely run a credit card program:  application, underwriting, origination, fraud and complinace controls, system of record, account management, account holder interface, portfolio management tools, customer service and collections.
 *  The competitive advantage Deserve is hoping to leverage is the flexibility of their cloud-based and newly coded solution.  This design advantage offers considerable speed to market.  Launching a credit card  program on legacy solutions such as Tsys or Fiserv takes a considerable amount of time and effort while Deserve promotes that it can launch a program within months.  In fact, Deserve won the bidding for the AMC Entertainment card by being able to launch within 4 months of the RFP - a feat none of their competitors could match.
 
+* Company Awards:
+  * Tearsheet: Best Card Issuing Platform 2023
+  * Inc's Fastsst Growing Private Companies 2020-2022
+  * Financial Time's America' Fastest Growing Companies 2023
+
 * Company Funding:
-  * 
-
-
+  *  Deserve Inc. has raised $544.2M.
+  *  Although a private company, Bloomberg reported in 2021 that they are valued at $500MM after investments from Goldman, Mission Holdings, and Sallie Mae.
+  *  Other major investors include:  Mastercard, Visa, Pelion, Accel, Acrew, Ally, and Alumni Ventures
+  *  Deserve secured a $250 million credit facility from banks led by Goldman Sachs Group on May 11, 2022
+ 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* Financial problem the company is trying to solve:
+  * Democratize the credit card issuing market by providing a cloud-based, API driven credit card platform
+  * This solution offers an alternative to mainframe-based in-house legacy systems provided by big banks (e.g. US Bank, Wells Fargo, JP Morgan Chase) and the oligarchic  power of the third-party provider market controlled by Fiserv, Tsys, and Jack Henry.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* Company's intended customer:
+  *   By creating B2B partnerships with companies interested in extending their brand reach through cobranded/white-label credit cards, Deserve in seeking to capture a portion of the $1T US credit card market that continues to grow - $154B or 17% over the last year.  These partner companies can be financial institutions, FinTechs, lenders, merchants or affinity organizations.
+
+*   Competitive advantage over competition:
+  *   Deserve hopes to attract new partners by offering speed to market in launching a new program.  In addition, they can offer the a mobile first user experience, a flexible environment, and the latest tools to manage all aspects of credit card issuing. 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -72,4 +84,7 @@ What solution does this company offer that their competitors do not or cannot of
 ## Sources
 * [Deserve.com](deserve.com)
 * [Crunchbase.com](https://www.crunchbase.com/organization/deserve)
+* [Bloomberg.com](https://www.bloomberg.com/news/articles/2021-06-24/deserve-valuation-tops-500-million-as-mastercard-ally-invest?leadSource=uverify%20wall#xj4y7vzkg)
+* [Cnn.com - 2023 Credit Card Debt](https://www.cnn.com/2023/11/07/economy/household-debt-credit-card-delinquencies-q3/index.html)
+
 * Phone interview with Pradeep Kalla, Chief Credit Officer
