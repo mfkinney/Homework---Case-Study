@@ -50,9 +50,9 @@
 ## Landscape:
 
 * Financial industry Domain:
-  * The company resides in the Credit Cards as a Service domain.
+  * The company resides in the Credit Cards as a Service domain.  A relatively new domain as costs to provide credit card servicing platforms have been reduced by cloud architecture and innovation in user experience design has been improved.
 
-* Major trends and innovations of this domain over the last 5-10 years?
+* Major trends and innovations of this domain over the last 5-10 years:
   *  The major innovation in the domain has been the use of mobile-first design, cloud-based infrastructure, and API configurations that allow for a fully functional credit card processing system of record to be built apart from the mainframe architecture provided by Tsys and Fiserv or legacy internal systems used by big banks.  
 
   * The domain has been expanding with several new entrants over the past 10 years:
@@ -103,8 +103,9 @@
 * [Cnn.com - 2023 Credit Card Debt](https://www.cnn.com/2023/11/07/economy/household-debt-credit-card-delinquencies-q3/index.html)
 * [Pymnts.com](pymnts.com)
 * [Financial Times](https://www.ft.com/americas-fastest-growing-companies-2023)
-* [SEC EDGAR] (sec.gov/edgar)
+* [SEC EDGAR](sec.gov/edgar)
 * [FinTech Futures](fintechfutures.com/us/?s=deserve)
 * [Tearsheet](tearsheet.co)
-
-*    Phone interview with Pradeep Kalla, Chief Credit Officer
+* [Nilson Report](https://nilsonreport.com/articles/the-50-largest-us-visa-and-mastercard-credit-card-issuers-2022/)
+  
+* Phone interview with Pradeep Kalla, Chief Credit Officer
