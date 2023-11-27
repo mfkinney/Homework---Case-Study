@@ -60,6 +60,7 @@
     * [Avant](Avant.com)
     * [Zeta](zeta.tech/us/)
     * [i2C](i2cinc.com)
+    * [Marqeta](marqeta.com)
    
 * Competition for new partners is fierce.  Avant recently signed a deal with Major League Soccer.  All are actively trying to attract new partners to either create a new issuing program or convince an existing issuer to convert their system of record to the new platform.
   
@@ -72,7 +73,7 @@
   * 5 major partnerships
 
 * Core metrics:
-  * Average Net Receivable
+  * Average Net Receivables
   * Total Number of Accounts
   * Active Accounts
   * Purchases on Cards
@@ -100,5 +101,10 @@
 * [Crunchbase.com](https://www.crunchbase.com/organization/deserve)
 * [Bloomberg.com](https://www.bloomberg.com/news/articles/2021-06-24/deserve-valuation-tops-500-million-as-mastercard-ally-invest?leadSource=uverify%20wall#xj4y7vzkg)
 * [Cnn.com - 2023 Credit Card Debt](https://www.cnn.com/2023/11/07/economy/household-debt-credit-card-delinquencies-q3/index.html)
+* [Pymnts.com](pymnts.com)
+* [Financial Times](https://www.ft.com/americas-fastest-growing-companies-2023)
+* [SEC EDGAR] (sec.gov/edgar)
+* [FinTech Futures](fintechfutures.com/us/?s=deserve)
+* [Tearsheet](tearsheet.co)
 
-* Phone interview with Pradeep Kalla, Chief Credit Officer
+*    Phone interview with Pradeep Kalla, Chief Credit Officer
